@@ -392,6 +392,7 @@ body #container #home .teks ul li .fa-linkedin:hover{
     position: relative;
     transition: all 0.4s ease;
     padding-top:100px;
+    text-decoration: underline;
  }
 
  #container #container-project #projects::before, #container #container-project #projects::after{
